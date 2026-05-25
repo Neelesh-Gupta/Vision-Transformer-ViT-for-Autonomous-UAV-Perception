@@ -1,7 +1,3 @@
-Here is a technical, ready-to-use `README.md` for your repository.
-
----
-
 # Vision Transformer (ViT) for Autonomous UAV Perception
 
 A custom Vision Transformer (ViT) architecture engineered specifically for autonomous Unmanned Aerial Vehicles (UAVs). This project implements advanced regularization, self-supervised pre-training, and uncertainty quantification to ensure robust perception in unpredictable aerial environments (e.g., sensor occlusion, domain shift, and noise).
